@@ -1,0 +1,13 @@
+# Robots.txt pour QUEENS EMPIRE
+# https://www.queensempire.ci/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cgi-bin/
+
+# Sitemap
+Sitemap: https://www.queensempire.ci/sitemap.xml
+
+# Crawl-delay (optionnel)
+Crawl-delay: 10

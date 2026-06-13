@@ -1,0 +1,284 @@
+═══════════════════════════════════════════════════════════════
+GUIDE SEO COMPLET - QUEENS EMPIRE
+Pour être trouvé sur Google quand on cherche "Queens Empire"
+═══════════════════════════════════════════════════════════════
+
+✅ TON SITE EST DÉJÀ BIEN OPTIMISÉ !
+Tu as déjà :
+- Balises meta titre et description
+- Schema.org (LocalBusiness, Organization)
+- Open Graph pour Facebook/réseaux sociaux
+- Mots-clés pertinents
+
+══════════════════════════════════════════════════════════════
+📋 CHECKLIST APRÈS MISE EN LIGNE
+══════════════════════════════════════════════════════════════
+
+1. GOOGLE SEARCH CONSOLE (PRIORITAIRE)
+──────────────────────────────────────
+□ Va sur : https://search.google.com/search-console
+□ Ajoute ton site : www.queensempire.ci
+□ Vérifie la propriété (via balise HTML ou DNS)
+□ Soumets ton sitemap.xml (voir ci-dessous)
+□ Demande l'indexation de ta page d'accueil
+
+2. GOOGLE MY BUSINESS (ESSENTIEL POUR LOCAL)
+──────────────────────────────────────
+□ Va sur : https://business.google.com
+□ Crée une fiche "QUEENS EMPIRE"
+□ Adresse : Abobo, Abidjan, Côte d'Ivoire
+□ Téléphone : +225 07 49 01 49 05
+□ Catégorie : "Boutique de cosmétiques"
+□ Horaires : 24/7 (ou tes vrais horaires)
+□ Ajoute 10-15 photos de tes produits
+□ Demande des avis clients
+
+→ IMPACT : Apparaître dans Google Maps + recherches locales
+
+
+3. CRÉER UN FICHIER sitemap.xml
+──────────────────────────────────────
+Crée ce fichier à la racine de ton site :
+
+Nom du fichier : sitemap.xml
+Contenu :
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.queensempire.ci/</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.queensempire.ci/#about</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.queensempire.ci/#services</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.queensempire.ci/#gallery</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.queensempire.ci/#contact</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
+
+→ Soumets ce fichier dans Google Search Console
+
+
+4. CRÉER UN FICHIER robots.txt
+──────────────────────────────────────
+Nom du fichier : robots.txt
+Contenu :
+
+User-agent: *
+Allow: /
+Sitemap: https://www.queensempire.ci/sitemap.xml
+
+
+5. VÉRIFIER LES BALISES META
+──────────────────────────────────────
+Dans ton <head>, assure-toi d'avoir ces balises à jour :
+
+<meta name="google-site-verification" content="TON_CODE_ICI" />
+
+→ Tu recevras ce code dans Google Search Console
+
+
+══════════════════════════════════════════════════════════════
+🔍 OPTIMISATIONS SEO SUPPLÉMENTAIRES
+══════════════════════════════════════════════════════════════
+
+6. NOMS DES IMAGES (IMPORTANT !)
+──────────────────────────────────────
+Au lieu de : 948f9477-65ee-4b82-b583-28f67970b096.jpg
+Renomme en : queens-empire-cosmetiques-abidjan.jpg
+
+Exemple de nommage SEO :
+- queens-empire-produits-dove.jpg
+- queens-empire-kit-glamour-12k.jpg
+- queens-empire-boutique-abidjan.jpg
+- queens-empire-cosmetiques-premium.jpg
+
+→ Google indexe aussi les noms de fichiers !
+
+
+7. TEXTES ALT DES IMAGES
+──────────────────────────────────────
+✅ DÉJÀ FAIT dans ton code !
+Exemple que tu as déjà :
+alt="Cosmétiques premium Queens Empire - soins visage Abidjan"
+
+Continue comme ça pour toutes les images.
+
+
+8. BALISE H1 UNIQUE
+──────────────────────────────────────
+✅ DÉJÀ BON !
+Tu as : <h1 class="hero-title">Queens Empire</h1>
+
+Conseil : Une seule balise H1 par page ✓
+
+
+9. VITESSE DE CHARGEMENT
+──────────────────────────────────────
+Teste ton site sur :
+- https://pagespeed.web.dev
+- Entre ton URL quand il sera en ligne
+
+Optimisations rapides :
+□ Compresse tes images (max 200 Ko par image)
+□ Utilise WebP au lieu de JPG/PNG
+□ Active la compression Gzip sur Hostinger
+
+
+══════════════════════════════════════════════════════════════
+📱 RÉSEAUX SOCIAUX & CITATIONS
+══════════════════════════════════════════════════════════════
+
+10. CRÉER VOS PROFILS SOCIAUX
+──────────────────────────────────────
+□ Facebook : facebook.com/queensempire
+□ Instagram : @queensempire
+□ TikTok : @queensempire
+□ Pinterest : pinterest.com/queensempire
+
+→ Utilise PARTOUT le nom "QUEENS EMPIRE" (identique)
+→ Ajoute ton lien site dans chaque bio
+→ Poste régulièrement (3-5x/semaine minimum)
+
+
+11. INSCRIPTIONS ANNUAIRES LOCAUX CI
+──────────────────────────────────────
+Inscris Queens Empire sur :
+□ Abidjan.net (annuaire CI)
+□ Goafricaonline.com
+□ Expat.com Côte d'Ivoire
+□ Pages Jaunes CI
+□ Jumia (si tu vends en ligne)
+
+→ Citations NAP (Name, Address, Phone) identiques partout
+
+
+══════════════════════════════════════════════════════════════
+🚀 ACTIONS IMMÉDIATES APRÈS MISE EN LIGNE
+══════════════════════════════════════════════════════════════
+
+JOUR 1 :
+□ Soumettre à Google Search Console
+□ Créer Google My Business
+□ Partager sur tous tes réseaux sociaux
+
+SEMAINE 1 :
+□ Demander 5-10 avis Google My Business
+□ Publier 1 article blog (optionnel)
+□ Partager 3-5 posts Instagram/Facebook
+
+MOIS 1 :
+□ Vérifier indexation Google (tape : site:queensempire.ci)
+□ Analyser Google Analytics
+□ Ajuster mots-clés si besoin
+
+
+══════════════════════════════════════════════════════════════
+📊 MOTS-CLÉS À CIBLER
+══════════════════════════════════════════════════════════════
+
+Priorité 1 (Haute) :
+- "Queens Empire"
+- "Queens Empire Abidjan"
+- "Queens Empire Côte d'Ivoire"
+- "cosmétiques Queens Empire"
+- "boutique Queens Empire"
+
+Priorité 2 (Moyenne) :
+- "cosmétiques Abidjan"
+- "produits Dove Abidjan"
+- "beauté femme Côte d'Ivoire"
+- "maquillage Abobo"
+- "boutique beauté Abidjan"
+
+Priorité 3 (Longue traîne) :
+- "où acheter cosmétiques Abidjan"
+- "meilleure boutique beauté Côte d'Ivoire"
+- "produits Dove livraison Abidjan"
+- "kit beauté Queens Empire"
+
+
+══════════════════════════════════════════════════════════════
+⚡ BONUS : GOOGLE ANALYTICS
+══════════════════════════════════════════════════════════════
+
+1. Crée un compte Google Analytics
+2. Ajoute ce code avant </head> :
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+
+→ Remplace G-XXXXXXXXXX par ton ID Analytics
+
+
+══════════════════════════════════════════════════════════════
+✅ RÉSUMÉ : TIMELINE SEO
+══════════════════════════════════════════════════════════════
+
+Jour 1 : Google Search Console + Google My Business
+Semaine 1 : Sitemap + Réseaux sociaux + 5 avis
+Semaine 2-4 : Apparition dans Google (recherche "Queens Empire")
+Mois 2-3 : Classement local amélioré
+Mois 6+ : Top 3 pour "Queens Empire" + mots-clés locaux
+
+
+══════════════════════════════════════════════════════════════
+❓ QUESTIONS FRÉQUENTES
+══════════════════════════════════════════════════════════════
+
+Q : Combien de temps avant d'apparaître sur Google ?
+R : 1-2 semaines pour "Queens Empire", 1-3 mois pour autres mots-clés
+
+Q : Faut-il payer Google pour être référencé ?
+R : NON ! Le référencement naturel (SEO) est gratuit
+
+Q : Comment avoir plus d'avis Google ?
+R : Demande à tes clients satisfaits, envoie un lien direct
+
+Q : Dois-je créer un blog ?
+R : Optionnel mais utile (1-2 articles/mois suffisent)
+
+
+══════════════════════════════════════════════════════════════
+📞 BESOIN D'AIDE ?
+══════════════════════════════════════════════════════════════
+
+Si tu as besoin d'aide pour :
+- Configurer Google Search Console
+- Créer Google My Business
+- Optimiser davantage le SEO
+- Ajouter le panneau admin
+
+→ Dis-moi et je te guide étape par étape !
+
+
+═══════════════════════════════════════════════════════════════
+Créé pour QUEENS EMPIRE - Février 2026
+═══════════════════════════════════════════════════════════════

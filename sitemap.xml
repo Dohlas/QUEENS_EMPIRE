@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Page d'accueil -->
+  <url>
+    <loc>https://www.queensempire.ci/</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.queensempire.ci/imae/948f9477-65ee-4b82-b583-28f67970b096.jpg</image:loc>
+      <image:title>Queens Empire Abidjan</image:title>
+      <image:caption>Boutique cosmétiques et beauté premium Côte d'Ivoire</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Section À Propos -->
+  <url>
+    <loc>https://www.queensempire.ci/#about</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Section Services/Produits -->
+  <url>
+    <loc>https://www.queensempire.ci/#services</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Section Galerie -->
+  <url>
+    <loc>https://www.queensempire.ci/#gallery</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Section Contact -->
+  <url>
+    <loc>https://www.queensempire.ci/#contact</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
